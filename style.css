@@ -1,0 +1,9 @@
+.h1{
+    display: flex;
+    text-align: center;
+    color: aqua;
+}
+
+.Img img{
+    justify-content: first baseline;
+}
